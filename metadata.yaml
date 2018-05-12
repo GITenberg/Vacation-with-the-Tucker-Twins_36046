@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9429'
     url: http://www.gutenberg.org/2009/agents/9429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36046#Vacation-with-the-Tucker-Twins
 gutenberg_issued: '2011-05-06'
 gutenberg_type: Text
 identifiers:
